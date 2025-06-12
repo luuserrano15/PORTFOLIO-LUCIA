@@ -176,7 +176,6 @@ nav {
   max-width: 400px;
 }
 
-/* DESTACADO */
 #destacado {
   background: #111;
   padding: 60px 5%;
@@ -236,7 +235,6 @@ nav {
   color: #fff;
 }
 
-/* PORTFOLIO */
 #portfolio {
   padding: 60px 5%;
   background: #000;
@@ -285,7 +283,6 @@ nav {
   display: flex;
 }
 
-/* CONTACT CTA */
 #contact-btn {
   background: #f4f7ff;
   padding: 40px 20px;
@@ -313,7 +310,6 @@ nav {
   color: black;
 }
 
-/* CONTACT FORM */
 #contact-form {
   padding: 60px 5%;
   background: #1a1a1a;
@@ -366,7 +362,6 @@ button[type="submit"]:hover {
   background: #48c5e5;
 }
 
-/* MEDIA QUERIES */
 @media(max-width: 768px) {
   .name h1 {
     font-size: 30px;
